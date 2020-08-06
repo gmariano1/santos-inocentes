@@ -1,0 +1,1 @@
+insert into unidade values (1,"Casa das mães"), (2,"Creche"), (3,"Descarte ou outros");
